@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-wget -q https://raw.githubusercontent.com/WildNodeTeam/MN-install/master/install.sh
+wget -q https://raw.githubusercontent.com/WildNodeTeam/WildMasterNode/master/install.sh
 bash install.sh
 ```
 ***
